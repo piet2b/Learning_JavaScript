@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "learning_javascript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./FundamentalConcepts/Hi.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piet2b/Learning_JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piet2b/Learning_JavaScript/issues"
+  },
+  "homepage": "https://github.com/piet2b/Learning_JavaScript#readme"
+}
