@@ -15,32 +15,32 @@ body {
 
 .product {
   background-color: #fff;
-  padding: 30px;
+  padding: 40px;
   border-radius: 10px;
   box-shadow: 0 0 40px reg(0, 0, 0, 0.4);
 }
 
-.raiting-container span {
+.rating-container span {
   font-size: 60px;
   cursor: pointer;
-  color: rgb(249, 245, 245);
+  color: rgb(171, 147, 147);
 }
 
-.raiting-container span:hover,
-.raiting-container span.active {
+.rating-container span:hover,
+.rating-container span.active {
   color: #ffcc00;
 }
 
-.raiting-text {
+.rating-text {
   font-size: 22px;
   margin-top: 10px;
 }
 
 #submit-bin {
-  padding: 20px 40px;
-  font-size: 100px;
+  padding: 50px 100px;
+  font-size: 16px;
   background-color: #4caf50;
-  color: #fff;
+  color: #a18f8f;
   border: none;
   border-radius: 4px;
   cursor: pointer;
