@@ -1,0 +1,51 @@
+body {
+  font-family: Serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+}
+
+.product {
+  background-color: #fff;
+  padding: 40px;
+  border-radius: 10px;
+  box-shadow: 0 0 40px reg(0, 0, 0, 0.1);
+}
+
+.raiting-container {
+  margin: 30px 0;
+}
+
+.raiting-container span {
+  font-size: 60px;
+  cursor: pointer;
+  color: #ddd;
+}
+
+.raiting-container span:hover,
+.raiting-container span.active {
+  color: #ffcc00;
+}
+
+.raiting-text {
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+#submit-bin {
+  padding: 20px 40px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
